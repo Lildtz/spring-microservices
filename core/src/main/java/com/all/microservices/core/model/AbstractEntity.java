@@ -1,4 +1,4 @@
-package com.all.microservices.course.model;
+package com.all.microservices.core.model;
 
 import java.io.Serializable;
 
